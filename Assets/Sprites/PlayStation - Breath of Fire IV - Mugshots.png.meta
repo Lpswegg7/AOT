@@ -1,0 +1,3348 @@
+fileFormatVersion: 2
+guid: a6ac80f9c451d4d008a3ae5d9253c897
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayStation - Breath of Fire IV - Mugshots
+    21300002: PlayStation - Breath of Fire IV - Mugshots_0
+    21300004: PlayStation - Breath of Fire IV - Mugshots_1
+    21300006: PlayStation - Breath of Fire IV - Mugshots_2
+    21300008: PlayStation - Breath of Fire IV - Mugshots_3
+    21300010: PlayStation - Breath of Fire IV - Mugshots_4
+    21300012: PlayStation - Breath of Fire IV - Mugshots_5
+    21300014: PlayStation - Breath of Fire IV - Mugshots_6
+    21300016: PlayStation - Breath of Fire IV - Mugshots_7
+    21300018: PlayStation - Breath of Fire IV - Mugshots_8
+    21300020: PlayStation - Breath of Fire IV - Mugshots_9
+    21300022: PlayStation - Breath of Fire IV - Mugshots_10
+    21300024: PlayStation - Breath of Fire IV - Mugshots_11
+    21300026: PlayStation - Breath of Fire IV - Mugshots_12
+    21300028: PlayStation - Breath of Fire IV - Mugshots_13
+    21300030: PlayStation - Breath of Fire IV - Mugshots_14
+    21300032: PlayStation - Breath of Fire IV - Mugshots_15
+    21300034: PlayStation - Breath of Fire IV - Mugshots_16
+    21300036: PlayStation - Breath of Fire IV - Mugshots_17
+    21300038: PlayStation - Breath of Fire IV - Mugshots_18
+    21300040: PlayStation - Breath of Fire IV - Mugshots_19
+    21300042: PlayStation - Breath of Fire IV - Mugshots_20
+    21300044: PlayStation - Breath of Fire IV - Mugshots_21
+    21300046: PlayStation - Breath of Fire IV - Mugshots_22
+    21300048: PlayStation - Breath of Fire IV - Mugshots_23
+    21300050: PlayStation - Breath of Fire IV - Mugshots_24
+    21300052: PlayStation - Breath of Fire IV - Mugshots_25
+    21300054: PlayStation - Breath of Fire IV - Mugshots_26
+    21300056: PlayStation - Breath of Fire IV - Mugshots_27
+    21300058: PlayStation - Breath of Fire IV - Mugshots_28
+    21300060: PlayStation - Breath of Fire IV - Mugshots_29
+    21300062: PlayStation - Breath of Fire IV - Mugshots_30
+    21300064: PlayStation - Breath of Fire IV - Mugshots_31
+    21300066: PlayStation - Breath of Fire IV - Mugshots_32
+    21300068: PlayStation - Breath of Fire IV - Mugshots_33
+    21300070: PlayStation - Breath of Fire IV - Mugshots_34
+    21300072: PlayStation - Breath of Fire IV - Mugshots_35
+    21300074: PlayStation - Breath of Fire IV - Mugshots_36
+    21300076: PlayStation - Breath of Fire IV - Mugshots_37
+    21300078: PlayStation - Breath of Fire IV - Mugshots_38
+    21300080: PlayStation - Breath of Fire IV - Mugshots_39
+    21300082: PlayStation - Breath of Fire IV - Mugshots_40
+    21300084: PlayStation - Breath of Fire IV - Mugshots_41
+    21300086: PlayStation - Breath of Fire IV - Mugshots_42
+    21300088: PlayStation - Breath of Fire IV - Mugshots_43
+    21300090: PlayStation - Breath of Fire IV - Mugshots_44
+    21300092: PlayStation - Breath of Fire IV - Mugshots_45
+    21300094: PlayStation - Breath of Fire IV - Mugshots_46
+    21300096: PlayStation - Breath of Fire IV - Mugshots_47
+    21300098: PlayStation - Breath of Fire IV - Mugshots_48
+    21300100: PlayStation - Breath of Fire IV - Mugshots_49
+    21300102: PlayStation - Breath of Fire IV - Mugshots_50
+    21300104: PlayStation - Breath of Fire IV - Mugshots_51
+    21300106: PlayStation - Breath of Fire IV - Mugshots_52
+    21300108: PlayStation - Breath of Fire IV - Mugshots_53
+    21300110: PlayStation - Breath of Fire IV - Mugshots_54
+    21300112: PlayStation - Breath of Fire IV - Mugshots_55
+    21300114: PlayStation - Breath of Fire IV - Mugshots_56
+    21300116: PlayStation - Breath of Fire IV - Mugshots_57
+    21300118: PlayStation - Breath of Fire IV - Mugshots_58
+    21300120: PlayStation - Breath of Fire IV - Mugshots_59
+    21300122: PlayStation - Breath of Fire IV - Mugshots_60
+    21300124: PlayStation - Breath of Fire IV - Mugshots_61
+    21300126: PlayStation - Breath of Fire IV - Mugshots_62
+    21300128: PlayStation - Breath of Fire IV - Mugshots_63
+    21300130: PlayStation - Breath of Fire IV - Mugshots_64
+    21300132: PlayStation - Breath of Fire IV - Mugshots_65
+    21300134: PlayStation - Breath of Fire IV - Mugshots_66
+    21300136: PlayStation - Breath of Fire IV - Mugshots_67
+    21300138: PlayStation - Breath of Fire IV - Mugshots_68
+    21300140: PlayStation - Breath of Fire IV - Mugshots_69
+    21300142: PlayStation - Breath of Fire IV - Mugshots_70
+    21300144: PlayStation - Breath of Fire IV - Mugshots_71
+    21300146: PlayStation - Breath of Fire IV - Mugshots_72
+    21300148: PlayStation - Breath of Fire IV - Mugshots_73
+    21300150: PlayStation - Breath of Fire IV - Mugshots_74
+    21300152: PlayStation - Breath of Fire IV - Mugshots_75
+    21300154: PlayStation - Breath of Fire IV - Mugshots_76
+    21300156: PlayStation - Breath of Fire IV - Mugshots_77
+    21300158: PlayStation - Breath of Fire IV - Mugshots_78
+    21300160: PlayStation - Breath of Fire IV - Mugshots_79
+    21300162: PlayStation - Breath of Fire IV - Mugshots_80
+    21300164: PlayStation - Breath of Fire IV - Mugshots_81
+    21300166: PlayStation - Breath of Fire IV - Mugshots_82
+    21300168: PlayStation - Breath of Fire IV - Mugshots_83
+    21300170: PlayStation - Breath of Fire IV - Mugshots_84
+    21300172: PlayStation - Breath of Fire IV - Mugshots_85
+    21300174: PlayStation - Breath of Fire IV - Mugshots_86
+    21300176: PlayStation - Breath of Fire IV - Mugshots_87
+    21300178: PlayStation - Breath of Fire IV - Mugshots_88
+    21300180: PlayStation - Breath of Fire IV - Mugshots_89
+    21300182: PlayStation - Breath of Fire IV - Mugshots_90
+    21300184: PlayStation - Breath of Fire IV - Mugshots_91
+    21300186: PlayStation - Breath of Fire IV - Mugshots_92
+    21300188: PlayStation - Breath of Fire IV - Mugshots_93
+    21300190: PlayStation - Breath of Fire IV - Mugshots_94
+    21300192: PlayStation - Breath of Fire IV - Mugshots_95
+    21300194: PlayStation - Breath of Fire IV - Mugshots_96
+    21300196: PlayStation - Breath of Fire IV - Mugshots_97
+    21300198: PlayStation - Breath of Fire IV - Mugshots_98
+    21300200: PlayStation - Breath of Fire IV - Mugshots_99
+    21300202: PlayStation - Breath of Fire IV - Mugshots_100
+    21300204: PlayStation - Breath of Fire IV - Mugshots_101
+    21300206: PlayStation - Breath of Fire IV - Mugshots_102
+    21300208: PlayStation - Breath of Fire IV - Mugshots_103
+    21300210: PlayStation - Breath of Fire IV - Mugshots_104
+    21300212: PlayStation - Breath of Fire IV - Mugshots_105
+    21300214: PlayStation - Breath of Fire IV - Mugshots_106
+    21300216: PlayStation - Breath of Fire IV - Mugshots_107
+    21300218: PlayStation - Breath of Fire IV - Mugshots_108
+    21300220: PlayStation - Breath of Fire IV - Mugshots_109
+    21300222: PlayStation - Breath of Fire IV - Mugshots_110
+    21300224: PlayStation - Breath of Fire IV - Mugshots_111
+    21300226: PlayStation - Breath of Fire IV - Mugshots_112
+    21300228: PlayStation - Breath of Fire IV - Mugshots_113
+    21300230: PlayStation - Breath of Fire IV - Mugshots_114
+    21300232: PlayStation - Breath of Fire IV - Mugshots_115
+    21300234: PlayStation - Breath of Fire IV - Mugshots_116
+    21300236: PlayStation - Breath of Fire IV - Mugshots_117
+    21300238: PlayStation - Breath of Fire IV - Mugshots_118
+    21300240: PlayStation - Breath of Fire IV - Mugshots_119
+    21300242: PlayStation - Breath of Fire IV - Mugshots_120
+    21300244: PlayStation - Breath of Fire IV - Mugshots_121
+    21300246: PlayStation - Breath of Fire IV - Mugshots_122
+    21300248: PlayStation - Breath of Fire IV - Mugshots_123
+    21300250: PlayStation - Breath of Fire IV - Mugshots_124
+    21300252: PlayStation - Breath of Fire IV - Mugshots_125
+    21300254: PlayStation - Breath of Fire IV - Mugshots_126
+    21300256: PlayStation - Breath of Fire IV - Mugshots_127
+    21300258: PlayStation - Breath of Fire IV - Mugshots_128
+    21300260: PlayStation - Breath of Fire IV - Mugshots_129
+    21300262: PlayStation - Breath of Fire IV - Mugshots_130
+    21300264: PlayStation - Breath of Fire IV - Mugshots_131
+    21300266: PlayStation - Breath of Fire IV - Mugshots_132
+    21300268: PlayStation - Breath of Fire IV - Mugshots_133
+    21300270: PlayStation - Breath of Fire IV - Mugshots_134
+    21300272: PlayStation - Breath of Fire IV - Mugshots_135
+    21300274: PlayStation - Breath of Fire IV - Mugshots_136
+    21300276: PlayStation - Breath of Fire IV - Mugshots_137
+    21300278: PlayStation - Breath of Fire IV - Mugshots_138
+    21300280: PlayStation - Breath of Fire IV - Mugshots_139
+    21300282: PlayStation - Breath of Fire IV - Mugshots_140
+    21300284: PlayStation - Breath of Fire IV - Mugshots_141
+    21300286: PlayStation - Breath of Fire IV - Mugshots_142
+    21300288: PlayStation - Breath of Fire IV - Mugshots_143
+    21300290: PlayStation - Breath of Fire IV - Mugshots_144
+    21300292: PlayStation - Breath of Fire IV - Mugshots_145
+    21300294: PlayStation - Breath of Fire IV - Mugshots_146
+    21300296: PlayStation - Breath of Fire IV - Mugshots_147
+    21300298: PlayStation - Breath of Fire IV - Mugshots_148
+    21300300: PlayStation - Breath of Fire IV - Mugshots_149
+    21300302: PlayStation - Breath of Fire IV - Mugshots_150
+    21300304: PlayStation - Breath of Fire IV - Mugshots_151
+    21300306: PlayStation - Breath of Fire IV - Mugshots_152
+    21300308: PlayStation - Breath of Fire IV - Mugshots_153
+    21300310: PlayStation - Breath of Fire IV - Mugshots_154
+    21300312: PlayStation - Breath of Fire IV - Mugshots_155
+    21300314: PlayStation - Breath of Fire IV - Mugshots_156
+    21300316: PlayStation - Breath of Fire IV - Mugshots_157
+    21300318: PlayStation - Breath of Fire IV - Mugshots_158
+    21300320: PlayStation - Breath of Fire IV - Mugshots_159
+    21300322: PlayStation - Breath of Fire IV - Mugshots_160
+    21300324: PlayStation - Breath of Fire IV - Mugshots_161
+    21300326: PlayStation - Breath of Fire IV - Mugshots_162
+    21300328: PlayStation - Breath of Fire IV - Mugshots_163
+    21300330: PlayStation - Breath of Fire IV - Mugshots_164
+    21300332: PlayStation - Breath of Fire IV - Mugshots_165
+    21300334: PlayStation - Breath of Fire IV - Mugshots_166
+    21300336: PlayStation - Breath of Fire IV - Mugshots_167
+    21300338: PlayStation - Breath of Fire IV - Mugshots_168
+    21300340: PlayStation - Breath of Fire IV - Mugshots_169
+    21300342: PlayStation - Breath of Fire IV - Mugshots_170
+    21300344: PlayStation - Breath of Fire IV - Mugshots_171
+    21300346: PlayStation - Breath of Fire IV - Mugshots_172
+    21300348: PlayStation - Breath of Fire IV - Mugshots_173
+    21300350: PlayStation - Breath of Fire IV - Mugshots_174
+    21300352: PlayStation - Breath of Fire IV - Mugshots_175
+    21300354: PlayStation - Breath of Fire IV - Mugshots_176
+    21300356: PlayStation - Breath of Fire IV - Mugshots_177
+    21300358: PlayStation - Breath of Fire IV - Mugshots_178
+    21300360: PlayStation - Breath of Fire IV - Mugshots_179
+    21300362: PlayStation - Breath of Fire IV - Mugshots_180
+    21300364: PlayStation - Breath of Fire IV - Mugshots_181
+    21300366: PlayStation - Breath of Fire IV - Mugshots_182
+    21300368: PlayStation - Breath of Fire IV - Mugshots_183
+    21300370: PlayStation - Breath of Fire IV - Mugshots_184
+    21300372: PlayStation - Breath of Fire IV - Mugshots_185
+    21300374: PlayStation - Breath of Fire IV - Mugshots_186
+    21300376: PlayStation - Breath of Fire IV - Mugshots_187
+    21300378: PlayStation - Breath of Fire IV - Mugshots_188
+    21300380: PlayStation - Breath of Fire IV - Mugshots_189
+    21300382: PlayStation - Breath of Fire IV - Mugshots_190
+    21300384: PlayStation - Breath of Fire IV - Mugshots_191
+    21300386: PlayStation - Breath of Fire IV - Mugshots_192
+    21300388: PlayStation - Breath of Fire IV - Mugshots_193
+    21300390: PlayStation - Breath of Fire IV - Mugshots_194
+    21300392: PlayStation - Breath of Fire IV - Mugshots_195
+    21300394: PlayStation - Breath of Fire IV - Mugshots_196
+    21300396: PlayStation - Breath of Fire IV - Mugshots_197
+    21300398: PlayStation - Breath of Fire IV - Mugshots_198
+    21300400: PlayStation - Breath of Fire IV - Mugshots_199
+    21300402: PlayStation - Breath of Fire IV - Mugshots_200
+    21300404: PlayStation - Breath of Fire IV - Mugshots_201
+    21300406: PlayStation - Breath of Fire IV - Mugshots_202
+    21300408: PlayStation - Breath of Fire IV - Mugshots_203
+    21300410: PlayStation - Breath of Fire IV - Mugshots_204
+    21300412: PlayStation - Breath of Fire IV - Mugshots_205
+    21300414: PlayStation - Breath of Fire IV - Mugshots_206
+    21300416: PlayStation - Breath of Fire IV - Mugshots_207
+    21300418: PlayStation - Breath of Fire IV - Mugshots_208
+    21300420: PlayStation - Breath of Fire IV - Mugshots_209
+    21300422: PlayStation - Breath of Fire IV - Mugshots_210
+    21300424: PlayStation - Breath of Fire IV - Mugshots_211
+    21300426: PlayStation - Breath of Fire IV - Mugshots_212
+    21300428: PlayStation - Breath of Fire IV - Mugshots_213
+    21300430: PlayStation - Breath of Fire IV - Mugshots_214
+    21300432: PlayStation - Breath of Fire IV - Mugshots_215
+    21300434: PlayStation - Breath of Fire IV - Mugshots_216
+    21300436: PlayStation - Breath of Fire IV - Mugshots_217
+    21300438: PlayStation - Breath of Fire IV - Mugshots_218
+    21300440: PlayStation - Breath of Fire IV - Mugshots_219
+    21300442: PlayStation - Breath of Fire IV - Mugshots_220
+    21300444: PlayStation - Breath of Fire IV - Mugshots_221
+    21300446: PlayStation - Breath of Fire IV - Mugshots_222
+    21300448: PlayStation - Breath of Fire IV - Mugshots_223
+    21300450: PlayStation - Breath of Fire IV - Mugshots_224
+    21300452: PlayStation - Breath of Fire IV - Mugshots_225
+    21300454: PlayStation - Breath of Fire IV - Mugshots_226
+    21300456: PlayStation - Breath of Fire IV - Mugshots_227
+    21300458: PlayStation - Breath of Fire IV - Mugshots_228
+    21300460: PlayStation - Breath of Fire IV - Mugshots_229
+    21300462: PlayStation - Breath of Fire IV - Mugshots_230
+    21300464: PlayStation - Breath of Fire IV - Mugshots_231
+    21300466: PlayStation - Breath of Fire IV - Mugshots_232
+    21300468: PlayStation - Breath of Fire IV - Mugshots_233
+    21300470: PlayStation - Breath of Fire IV - Mugshots_234
+    21300472: PlayStation - Breath of Fire IV - Mugshots_235
+    21300474: PlayStation - Breath of Fire IV - Mugshots_236
+    21300476: PlayStation - Breath of Fire IV - Mugshots_237
+    21300478: PlayStation - Breath of Fire IV - Mugshots_238
+    21300480: PlayStation - Breath of Fire IV - Mugshots_239
+    21300482: PlayStation - Breath of Fire IV - Mugshots_240
+    21300484: PlayStation - Breath of Fire IV - Mugshots_241
+    21300486: PlayStation - Breath of Fire IV - Mugshots_242
+    21300488: PlayStation - Breath of Fire IV - Mugshots_243
+    21300490: PlayStation - Breath of Fire IV - Mugshots_244
+    21300492: PlayStation - Breath of Fire IV - Mugshots_245
+    21300494: PlayStation - Breath of Fire IV - Mugshots_246
+    21300496: PlayStation - Breath of Fire IV - Mugshots_247
+    21300498: PlayStation - Breath of Fire IV - Mugshots_248
+    21300500: PlayStation - Breath of Fire IV - Mugshots_249
+    21300502: PlayStation - Breath of Fire IV - Mugshots_250
+    21300504: PlayStation - Breath of Fire IV - Mugshots_251
+    21300506: PlayStation - Breath of Fire IV - Mugshots_252
+    21300508: PlayStation - Breath of Fire IV - Mugshots_253
+    21300510: PlayStation - Breath of Fire IV - Mugshots_254
+    21300512: PlayStation - Breath of Fire IV - Mugshots_255
+    21300514: PlayStation - Breath of Fire IV - Mugshots_256
+    21300516: PlayStation - Breath of Fire IV - Mugshots_257
+    21300518: PlayStation - Breath of Fire IV - Mugshots_258
+    21300520: PlayStation - Breath of Fire IV - Mugshots_259
+    21300522: PlayStation - Breath of Fire IV - Mugshots_260
+    21300524: PlayStation - Breath of Fire IV - Mugshots_261
+    21300526: PlayStation - Breath of Fire IV - Mugshots_262
+    21300528: PlayStation - Breath of Fire IV - Mugshots_263
+    21300530: PlayStation - Breath of Fire IV - Mugshots_264
+    21300532: PlayStation - Breath of Fire IV - Mugshots_265
+    21300534: PlayStation - Breath of Fire IV - Mugshots_266
+    21300536: PlayStation - Breath of Fire IV - Mugshots_267
+    21300538: PlayStation - Breath of Fire IV - Mugshots_268
+    21300540: PlayStation - Breath of Fire IV - Mugshots_269
+    21300542: PlayStation - Breath of Fire IV - Mugshots_270
+    21300544: PlayStation - Breath of Fire IV - Mugshots_271
+    21300546: PlayStation - Breath of Fire IV - Mugshots_272
+    21300548: PlayStation - Breath of Fire IV - Mugshots_273
+    21300550: PlayStation - Breath of Fire IV - Mugshots_274
+    21300552: PlayStation - Breath of Fire IV - Mugshots_275
+    21300554: PlayStation - Breath of Fire IV - Mugshots_276
+    21300556: PlayStation - Breath of Fire IV - Mugshots_277
+    21300558: PlayStation - Breath of Fire IV - Mugshots_278
+    21300560: PlayStation - Breath of Fire IV - Mugshots_279
+    21300562: PlayStation - Breath of Fire IV - Mugshots_280
+    21300564: PlayStation - Breath of Fire IV - Mugshots_281
+    21300566: PlayStation - Breath of Fire IV - Mugshots_282
+    21300568: PlayStation - Breath of Fire IV - Mugshots_283
+    21300570: PlayStation - Breath of Fire IV - Mugshots_284
+    21300572: PlayStation - Breath of Fire IV - Mugshots_285
+    21300574: PlayStation - Breath of Fire IV - Mugshots_286
+    21300576: PlayStation - Breath of Fire IV - Mugshots_287
+    21300578: PlayStation - Breath of Fire IV - Mugshots_288
+    21300580: PlayStation - Breath of Fire IV - Mugshots_289
+    21300582: PlayStation - Breath of Fire IV - Mugshots_290
+    21300584: PlayStation - Breath of Fire IV - Mugshots_291
+    21300586: PlayStation - Breath of Fire IV - Mugshots_292
+    21300588: PlayStation - Breath of Fire IV - Mugshots_293
+    21300590: PlayStation - Breath of Fire IV - Mugshots_294
+    21300592: PlayStation - Breath of Fire IV - Mugshots_295
+    21300594: PlayStation - Breath of Fire IV - Mugshots_296
+    21300596: PlayStation - Breath of Fire IV - Mugshots_297
+    21300598: PlayStation - Breath of Fire IV - Mugshots_298
+    21300600: PlayStation - Breath of Fire IV - Mugshots_299
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayStation - Breath of Fire IV - Mugshots_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_12
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_15
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 868
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_26
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_27
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_28
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_30
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_31
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 816
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_42
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_43
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_44
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_45
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_46
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_47
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 764
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_51
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_52
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_54
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_55
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_56
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_58
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_59
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_60
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_62
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_63
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 712
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_66
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_67
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_68
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_70
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_71
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_72
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_74
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_75
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_76
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_78
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_79
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 660
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_82
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_84
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_86
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_87
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_88
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_89
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_90
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_91
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_92
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_94
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_95
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 608
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_98
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_99
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_100
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_101
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_102
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_103
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_104
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_105
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_106
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_107
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_108
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_109
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_110
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_111
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 556
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_114
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_115
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_116
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 505
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 505
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_118
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_119
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_120
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_121
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_122
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_123
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_124
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_125
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_126
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_127
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 504
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_128
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_130
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_131
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_132
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_134
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_135
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_136
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_138
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_139
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_140
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_141
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_142
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_143
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 452
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_144
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_146
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_147
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_148
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_150
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_151
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_152
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_153
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_154
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_155
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_156
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_157
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_158
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_159
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_160
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_162
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_163
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_164
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_165
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_166
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_167
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_168
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_169
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_170
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_171
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_172
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_173
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_174
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_175
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_176
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_178
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_179
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_180
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_182
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_183
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_184
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_185
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_186
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_187
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_188
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_189
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_190
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_191
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 296
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_192
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_194
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_195
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_196
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_197
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_198
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_199
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_200
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_201
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_202
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_203
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_204
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_205
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_206
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_207
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 244
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_208
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_210
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_211
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_212
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_213
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_214
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_215
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_216
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_217
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_218
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_219
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_220
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_221
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_222
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_223
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 192
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_224
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_226
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_227
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_228
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_229
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_230
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_231
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_232
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_233
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_234
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_235
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_236
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_237
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_238
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_239
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 140
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_240
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_241
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_242
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_243
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_244
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_245
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_246
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_247
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_248
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_249
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_250
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_251
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_252
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_253
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_254
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_255
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 88
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_256
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_257
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 64
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_258
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 62
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_259
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 62
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_260
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 64
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_261
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 64
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_262
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 64
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_263
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 62
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_264
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 64
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_265
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 64
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_266
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_267
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 64
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_268
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_269
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 62
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_270
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_271
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 52
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_272
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 52
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_273
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 52
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_274
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 52
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_275
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 52
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_276
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 52
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_277
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 52
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_278
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 52
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_279
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 52
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_280
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 52
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_281
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 51
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_282
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 39
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_283
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_284
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_285
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 39
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_286
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_287
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_288
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 39
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_289
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_290
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_291
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 39
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_292
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_293
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_294
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 25
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_295
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 27
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_296
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 27
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_297
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 27
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_298
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 27
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Breath of Fire IV - Mugshots_299
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 27
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
